@@ -3,8 +3,8 @@ SparrowNet (EX G-Mesh) was born from several contemporary problems: in recent mo
 SparrowNet doesn't stop there; anyone can build their own systems, focusing on transparency, trust, and privacy. SparrowNet can be used in emergencies, when 5G towers are destroyed or fiber optic cables are severed. SparrowNet is essential for hikers, when they need to communicate in areas without internet, in critical zones, or in situations such as floods, uninhabited areas, wars, and limited freedom of the press.
 
 ---
-![License](https://img.shields.io/github/license/georeport-international/g-mesh) ![Top Language](https://img.shields.io/github/languages/top/georeport-international/g-mesh) ![Repo Size](https://img.shields.io/github/repo-size/georeport-international/g-mesh)
-![PQC Crypto](https://img.shields.io/badge/Security-PQC_Encrypted-blueviolet) ![Contributors](https://img.shields.io/github/contributors/georeport-international/g-mesh) ![Top Languages](https://img.shields.io/github/languages/top/georeport-international/g-mesh)
+![License](https://img.shields.io/github/license/semontlabs/SparrowNet) ![Top Language](https://img.shields.io/github/languages/top/semontlabs/SparrowNet) ![Repo Size](https://img.shields.io/github/repo-size/semontlabs/SparrowNet)
+![PQC Crypto](https://img.shields.io/badge/Security-PQC_Encrypted-blueviolet) ![Contributors](https://img.shields.io/github/contributors/semontlabs/SparrowNet) ![Top Languages](https://img.shields.io/github/languages/top/semontlabs/SparrowNet)
 
 ## 🛠 Project Ecosystem
 Explore the components of the G-Mesh network:
