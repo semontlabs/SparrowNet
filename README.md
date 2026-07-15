@@ -9,11 +9,11 @@ SparrowNet doesn't stop there; anyone can build their own systems, focusing on t
 ## 🛠 Project Ecosystem
 Explore the components of the G-Mesh network:
 
-* [**SparrowLink**](./g-talk): our communication devices.
-* [**SparrowCenter**](./g-node): our communication ground base nodes.
-* [**SparrowOrbit**](./g-orbit): our satellite.
-* [**PQC**](./pqc): how the pqc encryption (Kyber-512) work.
-* [**Partners**](./partners.md): our sponsors and contributors.
+* [**SparrowLink**](./SparrowLink): our communication devices.
+* [**SparrowNode**](./SparrowNode): our communication ground base nodes.
+* [**SparrowOrbit**](./SparrowOrbit): our satellite.
+* [**PQC**](./PQC): how the pqc encryption (Kyber-512) work.
+* [**Partners**](./Partners.md): our sponsors and contributors.
 
 ## 📡 Use Cases
 * **Conflict Zones:** Communication when infrastructure is destroyed or censored.
